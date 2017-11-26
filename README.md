@@ -23,3 +23,5 @@ Because there are different number of theme entries for project, we make a for l
 Approach: make a copy of the original dataframe,<br>
            iterate over the 'mjtheme_namecode' column in for loop, <br>
            and fill in the blacks with the 'name_dict' dictionary when solving Probelm 2
+
+## Answer: Please see the file `sliderule_dsi_json_exercise.ipynb`
